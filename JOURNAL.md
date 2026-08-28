@@ -11,15 +11,18 @@ THREE
 With the schematic Alone we're at about 10 hours as it took 3 times proof:
 
 Insert project folder 
+![3 Folders](projectsfolder.jpeg)
 
 
 What went wrong the first time you ask?  Well:
 
 I wanted to do a 110 % Keyboard with a tft Display , a rotary encoder  etc etc  but  we were using a Raspberry Pi Pico so obviously not enough GPIO pins (Youre always Smarter afterwards)
 
-Insert Image  Schem 1
+![Schematic in the first folder](schem1.jpeg)
 
 Okay what now? Obviously a 75 % Keyboard without that fancy tft but still a Rotary Encoder for Volume or smth( Software hasnt been made yet)
+
+![Schematic in the second folder](schem2.jpeg)
 
 It still didnt work, the Matrix gave me headaches annd i could'nt figure out why everything was connected to the right so ofcourse I gave up(for my  Sanity)
 
@@ -34,7 +37,7 @@ We finished with  a 75% Keyboard without those stupid Keys like Ins Hime Pgup de
 
 Here is the finished Schematic:
 
-Insert Schematic
+![Schematic in the third folder](schem3.jpeg)
 
 
 All in All 10- 11 Hours (I tracked some but not all on Lapse)
@@ -57,6 +60,9 @@ Oh i got distracted...
 
 Routing the  traces was a bit annoying as there were only two layers but i got trough it with a lot of vias
 
+Heres the finished Part
+![pcb](pcb.jpeg)
+
 btw took like  6-8 hours ( till 2am of course)
 part  3 the bill of materials
 see bom.csv 
@@ -78,12 +84,12 @@ THE NEXT DAY (and night)
 Lets start with the case shall we?
 I made an absolutely beatiful case look at it:
 
-Insert SS 
+![Cad software showing a keyboard](IMG_1937.PNG) 
 
 As you can see its not opencad or whatever the guide told me,its shapr3d because my POS laptop cant handle anything that needs more than a gig of ram
 designing it was pretty fun,i watched some youtube while doing it.
 
-in total 3h 
+in total 4h 
 
 But now onto the firmware ...
 
