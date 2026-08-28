@@ -10,7 +10,7 @@ THREE
 
 With the schematic Alone we're at about 10 hours as it took 3 times proof:
 
-Insert project folder 
+
 ![3 Folders](projectsfolder.jpeg)
 
 
