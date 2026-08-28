@@ -71,3 +71,27 @@ this took like 3 whole damn hours D:
 Stand 25th of August 
 
 TODO : 3d case firmware (oh no)  read me  adding pictures ... I feel like ill stay upto 2 am
+
+
+THE NEXT DAY (and night)
+
+Lets start with the case shall we?
+I made an absolutely beatiful case look at it:
+
+Insert SS 
+
+As you can see its not opencad or whatever the guide told me,its shapr3d because my POS laptop cant handle anything that needs more than a gig of ram
+designing it was pretty fun,i watched some youtube while doing it.
+
+in total 3h 
+
+But now onto the firmware ...
+
+I hate it I hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate it
+
+Its now 2 am its finnaly working 
+
+Mostly were errors like syntax,pins col mismatch not working letters(tried making the euro and üöä) which didnt work ,my head hurts , once i am done i will goto sleep i only have to finish writing ts zzzzzz zzzz zzzz 
+
+Anyways this took like6 - 7 hours but for the mental tourment i would give myself 10000 h
+anyways good night zzzzz zzzz
