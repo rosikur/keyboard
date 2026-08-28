@@ -9,6 +9,7 @@ This was my first keyboard , apart from my macropad ,the keyboard took 3 times ,
 - Del key with fn + Backspace
 - 75 %
 - Made with lots of hate and Caffeine
+- Rotary Encoder
 ## How to assemble
 First you go to jlcpcb and uplood the gerber files, i recommend black pcb colors
 Then you go to Aliexpress and order all the parts from the BOM
@@ -38,4 +39,9 @@ thats it have fun!
 
 
 ## Picture Gallary
-
+![3 Folders](projectsfolder.jpeg)
+![Schematic in the first folder](schem1.jpeg)
+![Schematic in the second folder](schem2.jpeg)
+![Schematic in the third folder](schem3.jpeg)
+![pcb](pcb.jpeg)
+![Cad software showing a keyboard](IMG_1937.PNG) 
