@@ -65,13 +65,17 @@ Heres the finished Part
 
 btw took like  6-8 hours ( till 2am of course)
 part  3 the bill of materials
-see bom.csv 
+
+see bom.csv
+
 DAYUM this is fucking expensive
+
 so why did i pick those : I scrolled on AliExpress ( thats it)
 
 oh for the switches i just scrolled  on tiktoks  
 
 and i love the keycaps because i love Minecraft
+
 this took like 3 whole damn hours D:
 
 Stand 25th of August 
@@ -82,6 +86,7 @@ TODO : 3d case firmware (oh no)  read me  adding pictures ... I feel like ill st
 THE NEXT DAY (and night)
 
 Lets start with the case shall we?
+
 I made an absolutely beatiful case look at it:
 
 ![Cad software showing a keyboard](IMG_1937.PNG) 
@@ -95,9 +100,9 @@ But now onto the firmware ...
 
 I hate it I hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate it
 
-Its now 2 am its finnaly working 
+Its now 2 am its finaly working 
 
-Mostly were errors like syntax,pins col mismatch not working letters(tried making the euro and üöä) which didnt work ,my head hurts , once i am done i will goto sleep i only have to finish writing ts zzzzzz zzzz zzzz 
+Mostly were errors like syntax, pins col mismatch not working letters(tried making the euro and üöä) which didnt work ,my head hurts , once i am done i will goto sleep i only have to finish writing ts zzzzzz zzzz zzzz 
 
 Anyways this took like6 - 7 hours but for the mental tourment i would give myself 10000 h
 anyways good night zzzzz zzzz
