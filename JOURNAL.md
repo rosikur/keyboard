@@ -1,3 +1,4 @@
+<!-- fabricate:entry -->
 STEP 1 
 Schemmatic
 So this is how it starts ....
@@ -42,7 +43,8 @@ Here is the finished Schematic:
 
 All in All 10- 11 Hours (I tracked some but not all on Lapse)
 
-
+<!-- fabricate:entry -->
+<!-- fabricate:entry -->
 
 Part  2 The Cool Part aka the pcb
 
@@ -64,6 +66,10 @@ Heres the finished Part
 ![pcb](pcb.jpeg)
 
 btw took like  6-8 hours ( till 2am of course)
+
+<!-- fabricate:entry -->
+<!-- fabricate:entry -->
+
 part  3 the bill of materials
 
 see bom.csv
@@ -78,6 +84,8 @@ and i love the keycaps because i love Minecraft
 
 this took like 3 whole damn hours D:
 
+<!-- fabricate:entry -->
+<!-- fabricate:entry -->
 Stand 25th of August 
 
 TODO : 3d case firmware (oh no)  read me  adding pictures ... I feel like ill stay upto 2 am
@@ -96,6 +104,9 @@ designing it was pretty fun,i watched some youtube while doing it.
 
 in total 4h 
 
+<!-- fabricate:entry -->
+<!-- fabricate:entry -->
+
 But now onto the firmware ...
 
 I hate it I hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate it
@@ -106,3 +117,4 @@ Mostly were errors like syntax, pins col mismatch not working letters(tried maki
 
 Anyways this took like6 - 7 hours but for the mental tourment i would give myself 10000 h
 anyways good night zzzzz zzzz
+<!-- fabricate:entry -->
