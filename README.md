@@ -45,3 +45,7 @@ thats it have fun!
 ![Schematic in the third folder](schem3.jpeg)
 ![pcb](pcb.jpeg)
 ![Cad software showing a keyboard](IMG_1937.PNG) 
+
+
+![Assembled CAD](https://cdn.hackclub.com/01a18887-d47a-75a1-879c-eb23f7ed05d4/img_2142.png)
+
