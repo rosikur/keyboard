@@ -80,7 +80,7 @@ btw took like  6-8 hours ( till 2am of course)
 
 part  3 the bill of materials
 
-see PCB/BOM.csv
+see BOM.csv
 
 DAYUM this is fucking expensive
 
@@ -203,7 +203,7 @@ btw took like 6-8 hours ( till 2am of course)
 
 part 3 the bill of materials
 
-see PCB/BOM.csv
+see BOM.csv
 
 DAYUM this is fucking expensive
 
