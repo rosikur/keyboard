@@ -80,7 +80,7 @@ btw took like  6-8 hours ( till 2am of course)
 
 part  3 the bill of materials
 
-see bom.csv
+see PCB/BOM.csv
 
 DAYUM this is fucking expensive
 
@@ -140,18 +140,18 @@ THREE
 
 With the schematic Alone we're at about 10 hours as it took 3 times proof:
 
-![3 Folders](https://github.com/rosikur/keyboard/blob/main/projectsfolder.jpeg)
+![3 Folders](https://github.com/rosikur/keyboard/blob/main/Images/projectsfolder.jpeg)
 3 Folders
 
 What went wrong the first time you ask? Well:
 
 I wanted to do a 110 % Keyboard with a tft Display , a rotary encoder etc etc but we were using a Raspberry Pi Pico so obviously not enough GPIO pins (Youre always Smarter afterwards)
 
-![Schematic first folder](https://github.com/rosikur/keyboard/blob/main/schem1.jpeg)
+![Schematic first folder](https://github.com/rosikur/keyboard/blob/main/Images/schem1.jpeg)
 
 Okay what now? Obviously a 75 % Keyboard without that fancy tft but still a Rotary Encoder for Volume or smth( Software hasnt been made yet)
 
-![Schematic in the second folder](https://github.com/rosikur/keyboard/blob/main/schem2.jpeg)
+![Schematic in the second folder](https://github.com/rosikur/keyboard/blob/main/Images/schem2.jpeg)
 
 It still didnt work, the Matrix gave me headaches annd i could'nt figure out why everything was connected to the right so ofcourse I gave up(for my Sanity)
 
@@ -165,7 +165,7 @@ We finished with a 75% Keyboard without those stupid Keys like Ins Hime Pgup del
 
 Here is the finished Schematic:
 
-![Schematic in the third folder](https://github.com/rosikur/keyboard/raw/main/schem3.jpeg)
+![Schematic in the third folder](https://github.com/rosikur/keyboard/raw/main/Images/schem3.jpeg)
 
 All in All 10- 11 Hours (I tracked some but not all on Lapse)
 
@@ -192,7 +192,7 @@ Routing the traces was a bit annoying as there were only two layers but i got tr
 
 Heres the finished Part 
 
-![pcb](https://github.com/rosikur/keyboard/blob/main/pcb.jpeg)
+![pcb](https://github.com/rosikur/keyboard/blob/main/Images/pcb.jpeg)
 
 btw took like 6-8 hours ( till 2am of course)
 
@@ -203,7 +203,7 @@ btw took like 6-8 hours ( till 2am of course)
 
 part 3 the bill of materials
 
-see bom.csv
+see PCB/BOM.csv
 
 DAYUM this is fucking expensive
 
@@ -225,7 +225,7 @@ Lets start with the case shall we?
 
 I made an absolutely beatiful case look at it:
 
-![Cad software showing a keyboard](https://github.com/rosikur/keyboard/blob/main/IMG_1937.PNG)
+![Cad software showing a keyboard](https://github.com/rosikur/keyboard/blob/main/Images/IMG_1937.PNG)
 
 As you can see its not opencad or whatever the guide told me,its shapr3d because my POS laptop cant handle anything that needs more than a gig of ram designing it was pretty fun,i watched some youtube while doing it.
 
@@ -242,4 +242,3 @@ Mostly were errors like syntax, pins col mismatch not working letters(tried maki
 Anyways this took like6 - 7 hours but for the mental tourment i would give myself 10000 h anyways good night zzzzz zzzz
 
 **Total time spent: 10h 30m**
-

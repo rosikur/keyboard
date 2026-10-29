@@ -39,12 +39,12 @@ thats it have fun!
 
 
 ## Picture Gallary
-![3 Folders](projectsfolder.jpeg)
-![Schematic in the first folder](schem1.jpeg)
-![Schematic in the second folder](schem2.jpeg)
-![Schematic in the third folder](schem3.jpeg)
-![pcb](pcb.jpeg)
-![Cad software showing a keyboard](IMG_1937.PNG) 
+![3 Folders](Images/projectsfolder.jpeg)
+![Schematic in the first folder](Images/schem1.jpeg)
+![Schematic in the second folder](Images/schem2.jpeg)
+![Schematic in the third folder](Images/schem3.jpeg)
+![pcb](Images/pcb.jpeg)
+![Cad software showing a keyboard](Images/IMG_1937.PNG)
 
 
 ![Assembled CAD](https://cdn.hackclub.com/01a18887-d47a-75a1-879c-eb23f7ed05d4/img_2142.png)
