@@ -50,15 +50,16 @@ thats it have fun!
 ![Assembled CAD](https://cdn.hackclub.com/01a18887-d47a-75a1-879c-eb23f7ed05d4/img_2142.png)
 
 
-Item,QNT,Price,Link,details
-Switches,162,13.39/45  * 4 = 53.56EUR = 62.48USD, https://a.aliexpress.com/_EJTCEpM,AKKO  v3 pro cream blue
-Keycaps,2 Sets,16.99EUR * 2 = 33.98EUR = 39.64USD, https://a.aliexpress.com/_Eyr32DU,cuul mc keycaps
-Diodes,160,1.39*2 + Duties = 5.78, https://a.aliexpress.com/_EGyImLY,
-Rotary Encoder,2,6.49+ Duties 3Eur = 9.49 Eur,https://a.aliexpress.com/_EjwhFqK,
-Orpheus Pico,2,3.05 *2 + Duties = 9.10, https://a.aliexpress.com/_ExrMmQe,in reality its a knockoff pi pico
-PCB,,37.39,,
-Cable,,6.49+ duties =9.49,https://a.aliexpress.com/_EwkdJdC,
-MX Stab,,6.19+ Duties =9.19, https://a.aliexpress.com/_EHf4OAA,
-,,welps that got out of hand,,
-,,Total 167.98 EUR = 196.01,,
+## Bill of Materials
 
+| Item | QNT | Price | Link | Details |
+| --- | --- | --- | --- | --- |
+| Switches | 162 | 13.39/45 * 4 = 53.56 EUR = 62.48 USD | [AliExpress](https://a.aliexpress.com/_EJTCEpM) | AKKO v3 pro cream blue |
+| Keycaps | 2 sets | 16.99 EUR * 2 = 33.98 EUR = 39.64 USD | [AliExpress](https://a.aliexpress.com/_Eyr32DU) | Cuul MC keycaps |
+| Diodes | 160 | 1.39 * 2 + duties = 5.78 | [AliExpress](https://a.aliexpress.com/_EGyImLY) | |
+| Rotary Encoder | 2 | 6.49 + duties 3 EUR = 9.49 EUR | [AliExpress](https://a.aliexpress.com/_EjwhFqK) | |
+| Orpheus Pico | 2 | 3.05 * 2 + duties = 9.10 | [AliExpress](https://a.aliexpress.com/_ExrMmQe) | In reality, it is a knockoff Pi Pico |
+| PCB | | 37.39 | | |
+| Cable | | 6.49 + duties = 9.49 | [AliExpress](https://a.aliexpress.com/_EwkdJdC) | |
+| MX Stab | | 6.19 + duties = 9.19 | [AliExpress](https://a.aliexpress.com/_EHf4OAA) | |
+| **Total** | | **167.98 EUR = 196.01 USD** | | |
