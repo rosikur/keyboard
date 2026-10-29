@@ -1,3 +1,11 @@
+---
+title: "keyboard"
+github: "https://github.com/rosikur/keyboard"
+description: "This my keyboard something i made with my own hands and i am so proud of it :D \nA quick Overview :  It has \n- 75% Keyboard Layout\n- A Rotary Encoder\n- programmable Firmware"
+created_at: "2026-08-30"
+total_time: "29h"
+---
+
 <!-- fabricate:entry -->
 STEP 1 
 Schemmatic
@@ -12,18 +20,18 @@ THREE
 With the schematic Alone we're at about 10 hours as it took 3 times proof:
 
 
-![3 Folders](projectsfolder.jpeg)
+![3 Folders](https://fabricate.hackclub-assets.com/22102a9b5d07b02292ab5e56e9ab01ffe733d6b79bf677d2f54d434f61db613f/image-jpeg/projectsfolder.jpeg)
 
 
 What went wrong the first time you ask?  Well:
 
 I wanted to do a 110 % Keyboard with a tft Display , a rotary encoder  etc etc  but  we were using a Raspberry Pi Pico so obviously not enough GPIO pins (Youre always Smarter afterwards)
 
-![Schematic in the first folder](schem1.jpeg)
+![Schematic in the first folder](https://fabricate.hackclub-assets.com/260a9ffa4b33c6c5ade601ace5de7ee686c7428c4a11e5b055c90785fda51fb8/image-jpeg/schem1.jpeg)
 
 Okay what now? Obviously a 75 % Keyboard without that fancy tft but still a Rotary Encoder for Volume or smth( Software hasnt been made yet)
 
-![Schematic in the second folder](schem2.jpeg)
+![Schematic in the second folder](https://fabricate.hackclub-assets.com/c4dfabd5da1d5740419d2c307a32e1d7c1340550b4153792aca2e80153efff40/image-jpeg/schem2.jpeg)
 
 It still didnt work, the Matrix gave me headaches annd i could'nt figure out why everything was connected to the right so ofcourse I gave up(for my  Sanity)
 
@@ -38,7 +46,7 @@ We finished with  a 75% Keyboard without those stupid Keys like Ins Hime Pgup de
 
 Here is the finished Schematic:
 
-![Schematic in the third folder](schem3.jpeg)
+![Schematic in the third folder](https://fabricate.hackclub-assets.com/e9cafecd1b2dbc22a223963a147e08b46f53ea83376c9fa2efa090349cc11a9e/image-jpeg/schem3.jpeg)
 
 
 All in All 10- 11 Hours (I tracked some but not all on Lapse)
@@ -63,7 +71,7 @@ Oh i got distracted...
 Routing the  traces was a bit annoying as there were only two layers but i got trough it with a lot of vias
 
 Heres the finished Part
-![pcb](pcb.jpeg)
+![pcb](https://fabricate.hackclub-assets.com/32daedc5c2dd2a449623931dd9daaf85e78a7e2d0a072b47e214cb4dd9706d49/image-jpeg/pcb.jpeg)
 
 btw took like  6-8 hours ( till 2am of course)
 
@@ -97,7 +105,7 @@ Lets start with the case shall we?
 
 I made an absolutely beatiful case look at it:
 
-![Cad software showing a keyboard](IMG_1937.PNG) 
+![Cad software showing a keyboard](https://fabricate.hackclub-assets.com/84b175613b9d7f386c975d2d5a701f8c0af316e7c6e6c51db2ad8dc1708be763/image-png/IMG_1937.PNG) 
 
 As you can see its not opencad or whatever the guide told me,its shapr3d because my POS laptop cant handle anything that needs more than a gig of ram
 designing it was pretty fun,i watched some youtube while doing it.
@@ -118,3 +126,120 @@ Mostly were errors like syntax, pins col mismatch not working letters(tried maki
 Anyways this took like6 - 7 hours but for the mental tourment i would give myself 10000 h
 anyways good night zzzzz zzzz
 <!-- fabricate:entry -->
+
+# October 29, 2026: Made the schematic
+<!-- fabricate:entry 1532 -->
+
+STEP 1 Schemmatic So this is how it starts ....
+
+This damn Schematic .....
+
+IT TOOK 3 TRIES
+
+THREE
+
+With the schematic Alone we're at about 10 hours as it took 3 times proof:
+
+![3 Folders](https://github.com/rosikur/keyboard/blob/main/projectsfolder.jpeg)
+3 Folders
+
+What went wrong the first time you ask? Well:
+
+I wanted to do a 110 % Keyboard with a tft Display , a rotary encoder etc etc but we were using a Raspberry Pi Pico so obviously not enough GPIO pins (Youre always Smarter afterwards)
+
+![Schematic first folder](https://github.com/rosikur/keyboard/blob/main/schem1.jpeg)
+
+Okay what now? Obviously a 75 % Keyboard without that fancy tft but still a Rotary Encoder for Volume or smth( Software hasnt been made yet)
+
+![Schematic in the second folder](https://github.com/rosikur/keyboard/blob/main/schem2.jpeg)
+
+It still didnt work, the Matrix gave me headaches annd i could'nt figure out why everything was connected to the right so ofcourse I gave up(for my Sanity)
+
+But whats worse than giving up? Of course not trying again so I started again .....
+
+And I Swear to God everything went wrong... I wired everything incorrectly , I FORGOT THE NUMBER ROW and kept putting it off (my friends keep telling me i have adhd.... I doubt it but im not sure)
+
+But with one Monster Strawberry dreams I worked until 2 am and finished it evantually :P
+
+We finished with a 75% Keyboard without those stupid Keys like Ins Hime Pgup del(only useful) with a Volume Knob and a cool Pi Pico It also has F Keys as im not a masochist
+
+Here is the finished Schematic:
+
+![Schematic in the third folder](https://github.com/rosikur/keyboard/raw/main/schem3.jpeg)
+
+All in All 10- 11 Hours (I tracked some but not all on Lapse)
+
+**Total time spent: 10h 30m**
+
+# October 29, 2026 (entry 2): PCB
+<!-- fabricate:entry 1533 -->
+
+Part 2 The Cool Part aka the pcb
+
+It was a blur really as i did this at 2am but it was pretty easy with a ruler (jk)
+
+SO i figured out something amazing
+
+if you put the schematic viewer and the pcb viewer next to eachother in the splitscreen or sepperate Monitors , you are able to press any item on the schematic or vice versa in the pcb you select the item on both panels which is soooo great mmakes everything wayyyy easier
+
+I selected a grid and sticked to it ... SIKE i did everything with the german "Augenmass" and it worked fine until i realized i forgot to flip the diodes yeah rookie mistake but thats mee a rookie
+
+Oh right i forgot to mention assigning the footprints if you press on something then go down to the last of the same item and press ctrl or shift you select everything between them
+
+Oh i got distracted...
+
+Routing the traces was a bit annoying as there were only two layers but i got trough it with a lot of vias
+
+Heres the finished Part 
+
+![pcb](https://github.com/rosikur/keyboard/blob/main/pcb.jpeg)
+
+btw took like 6-8 hours ( till 2am of course)
+
+**Total time spent: 8h**
+
+# October 29, 2026 (entry 3): bom, cad, and firmware
+<!-- fabricate:entry 1534 -->
+
+part 3 the bill of materials
+
+see bom.csv
+
+DAYUM this is fucking expensive
+
+so why did i pick those : I scrolled on AliExpress ( thats it)
+
+oh for the switches i just scrolled on tiktoks
+
+and i love the keycaps because i love Minecraft
+
+this took like 3 whole damn hours D:
+
+Stand 25th of August
+
+TODO : 3d case firmware (oh no) read me adding pictures ... I feel like ill stay upto 2 am
+
+THE NEXT DAY (and night)
+
+Lets start with the case shall we?
+
+I made an absolutely beatiful case look at it:
+
+![Cad software showing a keyboard](https://github.com/rosikur/keyboard/blob/main/IMG_1937.PNG)
+
+As you can see its not opencad or whatever the guide told me,its shapr3d because my POS laptop cant handle anything that needs more than a gig of ram designing it was pretty fun,i watched some youtube while doing it.
+
+in total 4h
+
+But now onto the firmware ...
+
+I hate it I hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate itI hate it
+
+Its now 2 am its finaly working
+
+Mostly were errors like syntax, pins col mismatch not working letters(tried making the euro and üöä) which didnt work ,my head hurts , once i am done i will goto sleep i only have to finish writing ts zzzzzz zzzz zzzz
+
+Anyways this took like6 - 7 hours but for the mental tourment i would give myself 10000 h anyways good night zzzzz zzzz
+
+**Total time spent: 10h 30m**
+
